@@ -1,0 +1,19 @@
+#hd {
+    font-weight: normal;
+    text-align: center;
+    padding: 100px;
+    border-bottom: 1.5px solid black;
+}
+
+#bt {
+    margin: 120px auto;
+    display: block;
+    padding: 10px 50px;
+    background-color: white;
+    border: 2px solid lightblue;
+}
+
+#bt:hover {
+    background-color: lightblue;
+}
+
